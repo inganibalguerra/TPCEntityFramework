@@ -1,0 +1,14 @@
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\bin\Debug\NorthWind.DataAccess.dll.config
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\bin\Debug\NorthWind.DataAccess.dll
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\bin\Debug\NorthWind.DataAccess.pdb
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\bin\Debug\NorthWind.DataAccess.Common.dll
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\bin\Debug\NorthWind.Entities.dll
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\bin\Debug\NorthWind.DataAccess.Common.pdb
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\bin\Debug\NorthWind.Entities.pdb
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\obj\Debug\NorthWind.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\obj\Debug\NorthWind.DataAccess.dll
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.DataAccess\obj\Debug\NorthWind.DataAccess.pdb

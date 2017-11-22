@@ -1,0 +1,12 @@
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\bin\Debug\NorthWind.Entities.dll.config
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\bin\Debug\NorthWind.Entities.dll
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\bin\Debug\NorthWind.Entities.pdb
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\bin\Debug\EntityFramework.dll
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\bin\Debug\NorthWind.DataAccess.Common.dll
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\bin\Debug\NorthWind.DataAccess.Common.pdb
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\bin\Debug\EntityFramework.xml
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\obj\Debug\NorthWind.Entities.csprojResolveAssemblyReference.cache
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\obj\Debug\NorthWind.Entities.dll
+C:\Users\ByA_01\Downloads\EFExample (1)\EFExample\NorthWind.Entities\obj\Debug\NorthWind.Entities.pdb
